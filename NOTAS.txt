@@ -1,0 +1,28 @@
+Notas
+
+1.Mexer no Card "Últimos Pacientes Cadastrados".
+   Os pacientes mostrados neste respectivo card são apenas visuais e foram adicionados via Java script (dashboard.js).
+
+2.A tela de login não sei se sera usada, mas foi estilizada e adicionado um arquivo Java Script (login.js) simulando uma API.
+  Vale ressaltar que grande parte dos elementos desta pagina são visuais então se lhe interessarem, fiquem a vontade para criar utilidade para eles.
+  Uma demo para as credenciais de login se encontra logo abaixo.
+    Email === admin@casaguido.com 
+    Senha === 123456
+
+
+3.A Pagina de "configurações" não foi estilizada, acredito que ainda tenha que ser trabalhada.
+
+4.O ícone de logout no canto superior direito eu mantive como da pagina de inicio, retirando o ícone de usuário da pagina de pacientes.
+  Caso seja trocado pelo ícone de usuário, tratem de trocar de todas as paginas. Assim poderei fazer a estilização.
+
+5.Foi adicionado funções nos arquivos Java Script para fazer a funcionalidade da 'SideBar'. O resto não foi mexido ou alterado, apenas a login.js que foi
+  criada por "mim". 
+
+6.Os ícones de 'notificação' e 'email(?????)' não funcionam, são apenas visuais. Apenas queria lembrar isso :) 
+
+7.A pagina de 'Registro' eu fiz questão de diminuir algumas seções por achar desnecessárias, agrupei algumas neste caso. Aquela barra de porcentagem
+  eu não faço ideia de como funciona então o KEVIN que vai arrumar. 
+
+8.Mudei o nome de 'index.html' para 'dashboard.html'.
+
+SE ACHAREM ALGUM PROBLEMA NO CSS, ME CONSULTEM OU SE NAO APENAS ME ERREM. FIQUEM LIVRES PARA PROCURAR ;)
